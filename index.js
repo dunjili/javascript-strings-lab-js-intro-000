@@ -9,4 +9,3 @@ var topic = "space";
 var conversation = `${topic}`;
 
 var actyal = "Let\'s talk about " + topic + "."
-
