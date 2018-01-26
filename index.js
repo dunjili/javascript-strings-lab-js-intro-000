@@ -1,10 +1,12 @@
 var greeting = "Hello, everybody!";
 
-var specialGuest = "Neil deGrasse Tyson"
+var specialGuest = "Neil de Grasse Tyson";
 
-var greetSpecialGuest = "Hello, " + specialGuest + "!";
+var greetSpecialGuest = "Hello, everybody " + specialGuest + "!";
 
 var topic = "space";
 
 var conversation = `${topic}`;
-var expected = "Let\'s talk about " + topic + ".";
+
+var actyal = "Let\'s talk about " + topic + "."
+
